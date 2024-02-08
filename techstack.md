@@ -4,8 +4,8 @@
 stackshareiodev/ad_codellama is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [Torch](http://torch.ch/) – Machine Learning Tools
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
+- [Torch](http://torch.ch/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 stackshareiodev/ad_codellama is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png' alt='Torch'/> [Torch](http://torch.ch/) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png' alt='Torch'/> [Torch](http://torch.ch/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_codellama](https://github.com/stackshareiodev/ad_codellama)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|02/07/24 <br/>Report generated|
+|7<br/>Tools used|02/08/24 <br/>Report generated|
 |------|------|
 </div>
 
